@@ -1,1646 +1,291 @@
 {
   "events": [
     {
-      "timestamp": "2025-08-13T16:00:10",
+      "timestamp": "2025-08-13T16:00:25",
       "event_id": "E000",
       "event_data": {
-        "event_name": "Long Wait Time",
+        "event_name": "Long Queue Length",
         "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "wait_time_seconds": 134.2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:00:10",
-      "event_id": "E001",
-      "event_data": {
-        "event_name": "Long Wait Time",
-        "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "wait_time_seconds": 134.2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:00:15",
-      "event_id": "E002",
-      "event_data": {
-        "event_name": "Long Wait Time",
-        "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "wait_time_seconds": 129.6
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:00:15",
-      "event_id": "E003",
-      "event_data": {
-        "event_name": "Long Wait Time",
-        "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "wait_time_seconds": 129.6
+        "num_of_customers": 4
       }
     },
     {
       "timestamp": "2025-08-13T16:00:25",
+      "event_id": "E001",
+      "event_data": {
+        "event_name": "Long Queue Length",
+        "station_id": "SCC1",
+        "num_of_customers": 4
+      }
+    },
+    {
+      "timestamp": "2025-08-13T16:00:30",
+      "event_id": "E002",
+      "event_data": {
+        "event_name": "Long Queue Length",
+        "station_id": "SCC1",
+        "num_of_customers": 5
+      }
+    },
+    {
+      "timestamp": "2025-08-13T16:00:30",
+      "event_id": "E003",
+      "event_data": {
+        "event_name": "Long Queue Length",
+        "station_id": "SCC1",
+        "num_of_customers": 5
+      }
+    },
+    {
+      "timestamp": "2025-08-13T16:00:35",
       "event_id": "E004",
       "event_data": {
         "event_name": "Long Queue Length",
         "station_id": "SCC1",
-        "num_of_customers": 4
+        "num_of_customers": 7
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:25",
+      "timestamp": "2025-08-13T16:00:35",
       "event_id": "E005",
       "event_data": {
-        "event_name": "Long Wait Time",
+        "event_name": "Long Queue Length",
         "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "wait_time_seconds": 274.6
+        "num_of_customers": 7
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:25",
+      "timestamp": "2025-08-13T16:00:40",
       "event_id": "E006",
       "event_data": {
         "event_name": "Long Queue Length",
         "station_id": "SCC1",
-        "num_of_customers": 4
+        "num_of_customers": 7
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:25",
+      "timestamp": "2025-08-13T16:00:40",
       "event_id": "E007",
       "event_data": {
-        "event_name": "Long Wait Time",
+        "event_name": "Long Queue Length",
         "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "wait_time_seconds": 274.6
+        "num_of_customers": 7
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:30",
+      "timestamp": "2025-08-13T16:00:45",
       "event_id": "E008",
       "event_data": {
         "event_name": "Long Queue Length",
         "station_id": "SCC1",
-        "num_of_customers": 5
+        "num_of_customers": 7
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:30",
+      "timestamp": "2025-08-13T16:00:45",
       "event_id": "E009",
       "event_data": {
-        "event_name": "Long Wait Time",
+        "event_name": "Long Queue Length",
         "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "wait_time_seconds": 290.6
+        "num_of_customers": 7
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:30",
+      "timestamp": "2025-08-13T16:00:50",
       "event_id": "E010",
       "event_data": {
         "event_name": "Long Queue Length",
         "station_id": "SCC1",
-        "num_of_customers": 5
+        "num_of_customers": 6
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:30",
+      "timestamp": "2025-08-13T16:00:50",
       "event_id": "E011",
       "event_data": {
-        "event_name": "Long Wait Time",
+        "event_name": "Long Queue Length",
         "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "wait_time_seconds": 290.6
+        "num_of_customers": 6
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:35",
+      "timestamp": "2025-08-13T16:00:55",
       "event_id": "E012",
       "event_data": {
         "event_name": "Long Queue Length",
         "station_id": "SCC1",
-        "num_of_customers": 7
+        "num_of_customers": 5
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:35",
+      "timestamp": "2025-08-13T16:00:55",
       "event_id": "E013",
       "event_data": {
-        "event_name": "Long Wait Time",
-        "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "wait_time_seconds": 162.9
+        "event_name": "Long Queue Length",
+        "station_id": "SCC3",
+        "num_of_customers": 4
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:35",
+      "timestamp": "2025-08-13T16:00:55",
       "event_id": "E014",
       "event_data": {
         "event_name": "Long Queue Length",
         "station_id": "SCC1",
-        "num_of_customers": 7
+        "num_of_customers": 5
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:35",
+      "timestamp": "2025-08-13T16:00:55",
       "event_id": "E015",
       "event_data": {
-        "event_name": "Long Wait Time",
-        "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "wait_time_seconds": 162.9
+        "event_name": "Long Queue Length",
+        "station_id": "SCC3",
+        "num_of_customers": 4
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:40",
+      "timestamp": "2025-08-13T16:01:00",
       "event_id": "E016",
       "event_data": {
         "event_name": "Long Queue Length",
         "station_id": "SCC1",
-        "num_of_customers": 7
+        "num_of_customers": 5
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:40",
+      "timestamp": "2025-08-13T16:01:00",
       "event_id": "E017",
       "event_data": {
-        "event_name": "Long Wait Time",
+        "event_name": "Long Queue Length",
         "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "wait_time_seconds": 109.0
+        "num_of_customers": 5
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:40",
+      "timestamp": "2025-08-13T16:01:05",
       "event_id": "E018",
       "event_data": {
         "event_name": "Long Queue Length",
         "station_id": "SCC1",
-        "num_of_customers": 7
+        "num_of_customers": 4
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:40",
+      "timestamp": "2025-08-13T16:01:05",
       "event_id": "E019",
       "event_data": {
-        "event_name": "Long Wait Time",
+        "event_name": "Long Queue Length",
         "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "wait_time_seconds": 109.0
+        "num_of_customers": 4
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:45",
+      "timestamp": "2025-08-13T16:01:10",
       "event_id": "E020",
       "event_data": {
         "event_name": "Long Queue Length",
         "station_id": "SCC1",
-        "num_of_customers": 7
+        "num_of_customers": 4
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:45",
+      "timestamp": "2025-08-13T16:01:10",
       "event_id": "E021",
       "event_data": {
-        "event_name": "Long Wait Time",
+        "event_name": "Long Queue Length",
         "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "wait_time_seconds": 81.0
+        "num_of_customers": 4
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:45",
+      "timestamp": "2025-08-13T16:01:15",
       "event_id": "E022",
       "event_data": {
         "event_name": "Long Queue Length",
         "station_id": "SCC1",
-        "num_of_customers": 7
+        "num_of_customers": 4
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:45",
+      "timestamp": "2025-08-13T16:01:15",
       "event_id": "E023",
       "event_data": {
-        "event_name": "Long Wait Time",
-        "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "wait_time_seconds": 81.0
+        "event_name": "Long Queue Length",
+        "station_id": "SCC2",
+        "num_of_customers": 5
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:50",
+      "timestamp": "2025-08-13T16:01:15",
       "event_id": "E024",
       "event_data": {
         "event_name": "Long Queue Length",
         "station_id": "SCC1",
-        "num_of_customers": 6
+        "num_of_customers": 4
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:50",
+      "timestamp": "2025-08-13T16:01:15",
       "event_id": "E025",
       "event_data": {
-        "event_name": "Long Wait Time",
-        "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "wait_time_seconds": 97.6
+        "event_name": "Long Queue Length",
+        "station_id": "SCC2",
+        "num_of_customers": 5
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:50",
+      "timestamp": "2025-08-13T16:01:20",
       "event_id": "E026",
       "event_data": {
         "event_name": "Long Queue Length",
         "station_id": "SCC1",
-        "num_of_customers": 6
+        "num_of_customers": 4
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:50",
+      "timestamp": "2025-08-13T16:01:20",
       "event_id": "E027",
       "event_data": {
-        "event_name": "Long Wait Time",
-        "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "wait_time_seconds": 97.6
+        "event_name": "Long Queue Length",
+        "station_id": "SCC2",
+        "num_of_customers": 4
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:55",
+      "timestamp": "2025-08-13T16:01:20",
       "event_id": "E028",
       "event_data": {
         "event_name": "Long Queue Length",
         "station_id": "SCC1",
-        "num_of_customers": 5
+        "num_of_customers": 4
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:55",
+      "timestamp": "2025-08-13T16:01:20",
       "event_id": "E029",
       "event_data": {
-        "event_name": "Long Wait Time",
-        "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "wait_time_seconds": 61.8
+        "event_name": "Long Queue Length",
+        "station_id": "SCC2",
+        "num_of_customers": 4
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:55",
+      "timestamp": "2025-08-13T16:01:25",
       "event_id": "E030",
       "event_data": {
         "event_name": "Long Queue Length",
-        "station_id": "SCC3",
+        "station_id": "SCC2",
         "num_of_customers": 4
       }
     },
     {
-      "timestamp": "2025-08-13T16:00:55",
+      "timestamp": "2025-08-13T16:01:25",
       "event_id": "E031",
       "event_data": {
         "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 5
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:00:55",
-      "event_id": "E032",
-      "event_data": {
-        "event_name": "Long Wait Time",
-        "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "wait_time_seconds": 61.8
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:00:55",
-      "event_id": "E033",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-10-04T13:56:15.630919",
-      "event_id": "E034",
-      "event_data": {
-        "event_name": "Checkout Station Action",
-        "station_id": "Unknown",
-        "Action": "CLOSE"
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:00",
-      "event_id": "E035",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 5
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:00",
-      "event_id": "E036",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:00",
-      "event_id": "E037",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 5
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:00",
-      "event_id": "E038",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:05",
-      "event_id": "E039",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:05",
-      "event_id": "E040",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC2",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:05",
-      "event_id": "E041",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:05",
-      "event_id": "E042",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:05",
-      "event_id": "E043",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC2",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:05",
-      "event_id": "E044",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:10",
-      "event_id": "E045",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:10",
-      "event_id": "E046",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:10",
-      "event_id": "E047",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC4",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:10",
-      "event_id": "E048",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:10",
-      "event_id": "E049",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:10",
-      "event_id": "E050",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC4",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:15",
-      "event_id": "E051",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:15",
-      "event_id": "E052",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC2",
-        "num_of_customers": 5
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:15",
-      "event_id": "E053",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 1
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:15",
-      "event_id": "E054",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:15",
-      "event_id": "E055",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC2",
-        "num_of_customers": 5
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:15",
-      "event_id": "E056",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 1
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:20",
-      "event_id": "E057",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:20",
-      "event_id": "E058",
-      "event_data": {
-        "event_name": "Long Queue Length",
         "station_id": "SCC2",
         "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:20",
-      "event_id": "E059",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:20",
-      "event_id": "E060",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:20",
-      "event_id": "E061",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC2",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:20",
-      "event_id": "E062",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:25",
-      "event_id": "E063",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:25",
-      "event_id": "E064",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC2",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:25",
-      "event_id": "E065",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC4",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:25",
-      "event_id": "E066",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:25",
-      "event_id": "E067",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC2",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:25",
-      "event_id": "E068",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC4",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:30",
-      "event_id": "E069",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:30",
-      "event_id": "E070",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC2",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:30",
-      "event_id": "E071",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "RC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:30",
-      "event_id": "E072",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:30",
-      "event_id": "E073",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC2",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:35",
-      "event_id": "E074",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 1
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:35",
-      "event_id": "E075",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC2",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:35",
-      "event_id": "E076",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "RC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:35",
-      "event_id": "E077",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 1
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:35",
-      "event_id": "E078",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC2",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:40",
-      "event_id": "E079",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:40",
-      "event_id": "E080",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC2",
-        "num_of_customers": 1
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:40",
-      "event_id": "E081",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "RC1",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:40",
-      "event_id": "E082",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:40",
-      "event_id": "E083",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC2",
-        "num_of_customers": 1
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:45",
-      "event_id": "E084",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:45",
-      "event_id": "E085",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC2",
-        "num_of_customers": 0
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:45",
-      "event_id": "E086",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "RC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:45",
-      "event_id": "E087",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:45",
-      "event_id": "E088",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC2",
-        "num_of_customers": 0
-      }
-    },
-    {
-      "timestamp": "2025-10-04T13:57:16.019183",
-      "event_id": "E089",
-      "event_data": {
-        "event_name": "Staffing Needs",
-        "station_id": "Unknown",
-        "Staff_type": "Cashier"
-      }
-    },
-    {
-      "timestamp": "2025-10-04T13:57:16.019183",
-      "event_id": "E090",
-      "event_data": {
-        "event_name": "Checkout Station Action",
-        "station_id": "Unknown",
-        "Action": "CLOSE"
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:50",
-      "event_id": "E091",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:50",
-      "event_id": "E092",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "RC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:50",
-      "event_id": "E093",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:55",
-      "event_id": "E094",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:55",
-      "event_id": "E095",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "RC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:01:55",
-      "event_id": "E096",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:00",
-      "event_id": "E097",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 1
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:00",
-      "event_id": "E098",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "RC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:00",
-      "event_id": "E099",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 1
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:05",
-      "event_id": "E100",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 1
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:05",
-      "event_id": "E101",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "RC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:05",
-      "event_id": "E102",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 1
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:10",
-      "event_id": "E103",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 5
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:10",
-      "event_id": "E104",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "RC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:10",
-      "event_id": "E105",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 5
-      }
-    },
-    {
-      "timestamp": "2025-10-04T14:01:27.348597",
-      "event_id": "E106",
-      "event_data": {
-        "event_name": "Checkout Station Action",
-        "station_id": "Unknown",
-        "Action": "CLOSE"
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:15",
-      "event_id": "E107",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:15",
-      "event_id": "E108",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:15",
-      "event_id": "E109",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "RC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:15",
-      "event_id": "E110",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:15",
-      "event_id": "E111",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:20",
-      "event_id": "E112",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:20",
-      "event_id": "E113",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "RC1",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:20",
-      "event_id": "E114",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:25",
-      "event_id": "E115",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:25",
-      "event_id": "E116",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "RC1",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:25",
-      "event_id": "E117",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:30",
-      "event_id": "E118",
-      "event_data": {
-        "event_name": "Unexpected Systems Crash",
-        "station_id": "SCC2",
-        "duration_seconds": 0
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:30",
-      "event_id": "E119",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:30",
-      "event_id": "E120",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "RC1",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:30",
-      "event_id": "E121",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:35",
-      "event_id": "E122",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 1
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:35",
-      "event_id": "E123",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "RC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:35",
-      "event_id": "E124",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 1
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:40",
-      "event_id": "E125",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "RC1",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:45",
-      "event_id": "E126",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "RC1",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:02:50",
-      "event_id": "E127",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "RC1",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-10-04T14:19:44.263189",
-      "event_id": "E128",
-      "event_data": {
-        "event_name": "Checkout Station Action",
-        "station_id": "Unknown",
-        "Action": "CLOSE"
-      }
-    },
-    {
-      "timestamp": "2025-10-04T14:30:03.761879",
-      "event_id": "E129",
-      "event_data": {
-        "event_name": "Checkout Station Action",
-        "station_id": "Unknown",
-        "Action": "CLOSE"
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:03:35",
-      "event_id": "E130",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:03:35",
-      "event_id": "E131",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:03:45",
-      "event_id": "E132",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:03:45",
-      "event_id": "E133",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-10-04T14:31:04.123916",
-      "event_id": "E134",
-      "event_data": {
-        "event_name": "Checkout Station Action",
-        "station_id": "Unknown",
-        "Action": "CLOSE"
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:03:50",
-      "event_id": "E135",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:03:50",
-      "event_id": "E136",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:03:55",
-      "event_id": "E137",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:03:55",
-      "event_id": "E138",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:00",
-      "event_id": "E139",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:00",
-      "event_id": "E140",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:00",
-      "event_id": "E141",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:00",
-      "event_id": "E142",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:05",
-      "event_id": "E143",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:05",
-      "event_id": "E144",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:10",
-      "event_id": "E145",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 1
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:10",
-      "event_id": "E146",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 1
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:15",
-      "event_id": "E147",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 0
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:15",
-      "event_id": "E148",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 0
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:20",
-      "event_id": "E149",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:20",
-      "event_id": "E150",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:25",
-      "event_id": "E151",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:25",
-      "event_id": "E152",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC3",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:30",
-      "event_id": "E153",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 7
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:30",
-      "event_id": "E154",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 7
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:35",
-      "event_id": "E155",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 6
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:35",
-      "event_id": "E156",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 6
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:40",
-      "event_id": "E157",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 6
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:40",
-      "event_id": "E158",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 6
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:45",
-      "event_id": "E159",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 5
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:45",
-      "event_id": "E160",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC2",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:45",
-      "event_id": "E161",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 5
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:45",
-      "event_id": "E162",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC2",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:50",
-      "event_id": "E163",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:50",
-      "event_id": "E164",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC2",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:50",
-      "event_id": "E165",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 4
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:50",
-      "event_id": "E166",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC2",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:55",
-      "event_id": "E167",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:04:55",
-      "event_id": "E168",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 3
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:05:00",
-      "event_id": "E169",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:05:00",
-      "event_id": "E170",
-      "event_data": {
-        "event_name": "Scanner Avoidance",
-        "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "product_sku": "PRD_V_04"
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:05:00",
-      "event_id": "E171",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:05:05",
-      "event_id": "E172",
-      "event_data": {
-        "event_name": "Scanner Avoidance",
-        "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "product_sku": "PRD_V_04"
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:05:05",
-      "event_id": "E173",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:05:05",
-      "event_id": "E174",
-      "event_data": {
-        "event_name": "Scanner Avoidance",
-        "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "product_sku": "PRD_V_04"
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:05:05",
-      "event_id": "E175",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 2
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:05:10",
-      "event_id": "E176",
-      "event_data": {
-        "event_name": "Scanner Avoidance",
-        "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "product_sku": "PRD_V_04"
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:05:10",
-      "event_id": "E177",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 1
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:05:10",
-      "event_id": "E178",
-      "event_data": {
-        "event_name": "Scanner Avoidance",
-        "station_id": "SCC1",
-        "customer_id": "Unknown",
-        "product_sku": "PRD_V_04"
-      }
-    },
-    {
-      "timestamp": "2025-08-13T16:05:10",
-      "event_id": "E179",
-      "event_data": {
-        "event_name": "Long Queue Length",
-        "station_id": "SCC1",
-        "num_of_customers": 1
       }
     }
   ]
