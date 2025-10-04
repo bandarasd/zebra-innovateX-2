@@ -1,0 +1,31 @@
+2025-10-04 11:09:09,253 [INFO] Loaded 13463 combined events from 5 dataset(s) (loop=True, speed=10.0x, cycle=7205.0s)
+2025-10-04 11:09:09,253 [INFO] Starting event stream on 0.0.0.0:8765
+2025-10-04 11:09:09,253 [INFO] Server ready. Press Ctrl+C to stop.
+2025-10-04 11:09:16,595 [INFO] Client connected from 127.0.0.1:51308
+2025-10-04 11:09:16,595 [INFO] Starting loop cycle 1
+2025-10-04 11:09:16,620 [INFO] Client connected from 127.0.0.1:51309
+2025-10-04 11:09:16,620 [INFO] Client connected from 127.0.0.1:51310
+2025-10-04 11:09:16,621 [INFO] Starting loop cycle 1
+2025-10-04 11:09:16,621 [INFO] Starting loop cycle 1
+2025-10-04 11:09:16,621 [INFO] Client 127.0.0.1:51309 disconnected
+2025-10-04 11:09:16,621 [INFO] Stream to 127.0.0.1:51309 ended
+2025-10-04 11:09:17,136 [INFO] Client 127.0.0.1:51308 disconnected
+2025-10-04 11:09:17,136 [INFO] Stream to 127.0.0.1:51308 ended
+2025-10-04 11:09:17,694 [INFO] Client 127.0.0.1:51310 disconnected
+2025-10-04 11:09:17,695 [INFO] Stream to 127.0.0.1:51310 ended
+2025-10-04 11:16:19,695 [INFO] Client connected from 127.0.0.1:51820
+2025-10-04 11:16:19,695 [INFO] Starting loop cycle 1
+2025-10-04 11:16:20,980 [INFO] Client connected from 127.0.0.1:51821
+2025-10-04 11:16:20,981 [INFO] Starting loop cycle 1
+2025-10-04 11:21:46,192 [INFO] Client connected from 127.0.0.1:51977
+2025-10-04 11:21:46,192 [INFO] Starting loop cycle 1
+2025-10-04 11:21:46,193 [INFO] Client 127.0.0.1:51977 disconnected
+2025-10-04 11:21:46,193 [INFO] Stream to 127.0.0.1:51977 ended
+2025-10-04 11:21:47,680 [INFO] Client connected from 127.0.0.1:51979
+2025-10-04 11:21:47,680 [INFO] Starting loop cycle 1
+2025-10-04 11:23:47,725 [INFO] Client 127.0.0.1:51979 disconnected
+2025-10-04 11:23:47,725 [INFO] Stream to 127.0.0.1:51979 ended
+2025-10-04 11:27:06,715 [INFO] Client connected from 127.0.0.1:52258
+2025-10-04 11:27:06,715 [INFO] Starting loop cycle 1
+2025-10-04 11:27:08,316 [INFO] Client 127.0.0.1:52258 disconnected
+2025-10-04 11:27:08,316 [INFO] Stream to 127.0.0.1:52258 ended

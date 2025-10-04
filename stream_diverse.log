@@ -1,0 +1,57 @@
+2025-10-04 02:35:15,686 [INFO] Loaded 17 combined events from 8 dataset(s) (loop=True, speed=1.0x, cycle=9.0s)
+2025-10-04 02:35:15,686 [INFO] Starting event stream on 0.0.0.0:8765
+2025-10-04 02:35:15,686 [INFO] Server ready. Press Ctrl+C to stop.
+2025-10-04 02:36:22,379 [INFO] Client connected from 127.0.0.1:59998
+2025-10-04 02:36:22,379 [INFO] Starting loop cycle 1
+2025-10-04 02:36:31,247 [INFO] Completed loop cycle 1, starting next cycle
+2025-10-04 02:36:31,248 [INFO] Starting loop cycle 2
+2025-10-04 02:36:35,267 [INFO] Client 127.0.0.1:59998 disconnected
+2025-10-04 02:36:35,267 [INFO] Stream to 127.0.0.1:59998 ended
+2025-10-04 02:36:57,635 [INFO] Client connected from 127.0.0.1:60080
+2025-10-04 02:36:57,635 [INFO] Starting loop cycle 1
+2025-10-04 02:37:06,504 [INFO] Completed loop cycle 1, starting next cycle
+2025-10-04 02:37:06,504 [INFO] Starting loop cycle 2
+2025-10-04 02:37:16,374 [INFO] Completed loop cycle 2, starting next cycle
+2025-10-04 02:37:16,375 [INFO] Starting loop cycle 3
+2025-10-04 02:37:26,252 [INFO] Completed loop cycle 3, starting next cycle
+2025-10-04 02:37:26,253 [INFO] Starting loop cycle 4
+2025-10-04 02:37:36,127 [INFO] Completed loop cycle 4, starting next cycle
+2025-10-04 02:37:36,128 [INFO] Starting loop cycle 5
+2025-10-04 02:37:46,004 [INFO] Completed loop cycle 5, starting next cycle
+2025-10-04 02:37:46,004 [INFO] Starting loop cycle 6
+2025-10-04 02:37:55,867 [INFO] Completed loop cycle 6, starting next cycle
+2025-10-04 02:37:55,868 [INFO] Starting loop cycle 7
+2025-10-04 02:38:05,743 [INFO] Completed loop cycle 7, starting next cycle
+2025-10-04 02:38:05,743 [INFO] Starting loop cycle 8
+2025-10-04 02:38:15,611 [INFO] Completed loop cycle 8, starting next cycle
+2025-10-04 02:38:15,612 [INFO] Starting loop cycle 9
+2025-10-04 02:38:25,485 [INFO] Completed loop cycle 9, starting next cycle
+2025-10-04 02:38:25,486 [INFO] Starting loop cycle 10
+2025-10-04 02:38:35,341 [INFO] Completed loop cycle 10, starting next cycle
+2025-10-04 02:38:35,341 [INFO] Starting loop cycle 11
+2025-10-04 02:38:45,213 [INFO] Completed loop cycle 11, starting next cycle
+2025-10-04 02:38:45,213 [INFO] Starting loop cycle 12
+2025-10-04 02:38:55,083 [INFO] Completed loop cycle 12, starting next cycle
+2025-10-04 02:38:55,083 [INFO] Starting loop cycle 13
+2025-10-04 02:39:04,952 [INFO] Completed loop cycle 13, starting next cycle
+2025-10-04 02:39:04,952 [INFO] Starting loop cycle 14
+2025-10-04 02:39:14,818 [INFO] Completed loop cycle 14, starting next cycle
+2025-10-04 02:39:14,818 [INFO] Starting loop cycle 15
+2025-10-04 02:39:24,677 [INFO] Completed loop cycle 15, starting next cycle
+2025-10-04 02:39:24,677 [INFO] Starting loop cycle 16
+2025-10-04 02:39:34,551 [INFO] Completed loop cycle 16, starting next cycle
+2025-10-04 02:39:34,551 [INFO] Starting loop cycle 17
+2025-10-04 02:39:44,423 [INFO] Completed loop cycle 17, starting next cycle
+2025-10-04 02:39:44,423 [INFO] Starting loop cycle 18
+2025-10-04 02:39:54,294 [INFO] Completed loop cycle 18, starting next cycle
+2025-10-04 02:39:54,294 [INFO] Starting loop cycle 19
+2025-10-04 02:40:04,167 [INFO] Completed loop cycle 19, starting next cycle
+2025-10-04 02:40:04,167 [INFO] Starting loop cycle 20
+2025-10-04 02:40:14,040 [INFO] Completed loop cycle 20, starting next cycle
+2025-10-04 02:40:14,041 [INFO] Starting loop cycle 21
+2025-10-04 02:40:23,909 [INFO] Completed loop cycle 21, starting next cycle
+2025-10-04 02:40:23,909 [INFO] Starting loop cycle 22
+2025-10-04 02:40:33,780 [INFO] Completed loop cycle 22, starting next cycle
+2025-10-04 02:40:33,782 [INFO] Starting loop cycle 23
+2025-10-04 02:40:35,789 [INFO] Client 127.0.0.1:60080 disconnected
+2025-10-04 02:40:35,789 [INFO] Stream to 127.0.0.1:60080 ended

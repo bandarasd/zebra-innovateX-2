@@ -1,0 +1,19 @@
+# Project Sentinel Requirements
+# All dependencies are from Python standard library
+# No additional packages required
+
+# Python 3.6+ required
+# Standard library modules used:
+# - socket (networking)
+# - json (JSON parsing)
+# - threading (concurrent processing) 
+# - time (timing and delays)
+# - datetime (timestamp handling)
+# - collections (data structures)
+# - http.server (web dashboard)
+# - csv (CSV file parsing)
+# - pathlib (file path handling)
+# - logging (system logging)
+# - argparse (command line parsing)
+# - subprocess (process management)
+# - signal (process signals)

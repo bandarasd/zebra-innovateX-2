@@ -1,0 +1,5 @@
+2025-10-04 02:11:14,268 - data_parser - INFO - Loaded 1 products and 1 customers
+2025-10-04 02:11:14,268 - sentinel_system - INFO - Reference data loaded successfully
+2025-10-04 02:11:14,273 - dashboard - INFO - Dashboard started at http://localhost:8080
+2025-10-04 02:11:14,273 - sentinel_system - INFO - Starting real-time processing...
+2025-10-04 02:11:14,273 - streaming_client - INFO - Connected to streaming server at localhost:8765

@@ -1,0 +1,21 @@
+2025-10-04 02:35:21,164 [INFO] Loaded 17 combined events from 8 dataset(s) (loop=True, speed=1.0x, cycle=9.0s)
+Traceback (most recent call last):
+  File "/Users/dananjaya/Downloads/zebra/data/streaming-server/stream_server.py", line 368, in <module>
+    main()
+    ~~~~^^
+  File "/Users/dananjaya/Downloads/zebra/data/streaming-server/stream_server.py", line 340, in main
+    server = ReplayTCPServer(
+        (args.host, args.port),
+    ...<4 lines>...
+        cycle_span=cycle_span,
+    )
+  File "/Users/dananjaya/Downloads/zebra/data/streaming-server/stream_server.py", line 232, in __init__
+    super().__init__(server_address, EventStreamRequestHandler)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/socketserver.py", line 457, in __init__
+    self.server_bind()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 48] Address already in use
